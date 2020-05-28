@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.9">
+	<Item id="5002cae4-58a4-4a98-8331-392b44d4c70b">
+		<Name>Грузопассажирский1</Name>
+		<Code>000000003</Code>
+		<Description>Грузопассажирский 1</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="b7dd9704-6c49-4fd7-a99c-a3a40b260a9a">
+		<Name>Грузопассажирский2</Name>
+		<Code>000000004</Code>
+		<Description>Грузопассажирский 2</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="13aa6f0f-51d1-4b71-bddf-d206a98949a8">
+		<Name>Пассажирский1</Name>
+		<Code>000000001</Code>
+		<Description>Пассажирский 1</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="46471246-dde2-4610-90fe-a6367b7ed489">
+		<Name>Пассажирский2</Name>
+		<Code>000000002</Code>
+		<Description>Пассажирский 2</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
